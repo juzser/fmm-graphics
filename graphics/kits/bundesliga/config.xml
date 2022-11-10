@@ -1,0 +1,70 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		 in the resource system, which allows this folder to be dropped into any
+		 place in the graphics folder and still have the game pick up the graphics
+		 files from the correct places
+	-->
+	
+	<list id="maps">
+
+		<record from="augsburg a" to="graphics/pictures/team/2238/kits/away"/>
+		<record from="augsburg h" to="graphics/pictures/team/2238/kits/home"/>
+		<record from="augsburg t" to="graphics/pictures/team/2238/kits/third"/>
+		<record from="bayern a" to="graphics/pictures/team/915/kits/away"/>
+		<record from="bayern h" to="graphics/pictures/team/915/kits/home"/>
+		<record from="bayern t" to="graphics/pictures/team/915/kits/third"/>
+		<record from="bochum a" to="graphics/pictures/team/905/kits/away"/>
+		<record from="bochum h" to="graphics/pictures/team/905/kits/home"/>
+		<record from="bochum t" to="graphics/pictures/team/905/kits/third"/>
+		<record from="bvb a" to="graphics/pictures/team/907/kits/away"/>
+		<record from="bvb h" to="graphics/pictures/team/907/kits/home"/>
+		<record from="eintracht a" to="graphics/pictures/team/912/kits/away"/>
+		<record from="eintracht h" to="graphics/pictures/team/912/kits/home"/>
+		<record from="eintracht t" to="graphics/pictures/team/912/kits/third"/>
+		<record from="freiburg a" to="graphics/pictures/team/944/kits/away"/>
+		<record from="freiburg h" to="graphics/pictures/team/944/kits/home"/>
+		<record from="freiburg t" to="graphics/pictures/team/944/kits/third"/>
+		<record from="hertha a" to="graphics/pictures/team/2247/kits/away"/>
+		<record from="hertha h" to="graphics/pictures/team/2247/kits/home"/>
+		<record from="hertha t" to="graphics/pictures/team/2247/kits/third"/>
+		<record from="hoffenheim a" to="graphics/pictures/team/879226/kits/away"/>
+		<record from="hoffenheim h" to="graphics/pictures/team/879226/kits/home"/>
+		<record from="hoffenheim t" to="graphics/pictures/team/879226/kits/third"/>
+		<record from="koln a" to="graphics/pictures/team/916/kits/away"/>
+		<record from="koln h" to="graphics/pictures/team/916/kits/home"/>
+		<record from="koln t" to="graphics/pictures/team/916/kits/third"/>
+		<record from="leverkusen a" to="graphics/pictures/team/901/kits/away"/>
+		<record from="leverkusen h" to="graphics/pictures/team/901/kits/home"/>
+		<record from="leverkusen t" to="graphics/pictures/team/901/kits/third"/>
+		<record from="mainz a" to="graphics/pictures/team/918/kits/away"/>
+		<record from="mainz h" to="graphics/pictures/team/918/kits/home"/>
+		<record from="mainz t" to="graphics/pictures/team/918/kits/third"/>
+		<record from="mgladbach a" to="graphics/pictures/team/908/kits/away"/>
+		<record from="mgladbach h" to="graphics/pictures/team/908/kits/home"/>
+		<record from="mgladbach t" to="graphics/pictures/team/908/kits/third"/>
+		<record from="rb leipzig a" to="graphics/pictures/team/91013388/kits/away"/>
+		<record from="rb leipzig h" to="graphics/pictures/team/91013388/kits/home"/>
+		<record from="rb leipzig t" to="graphics/pictures/team/91013388/kits/third"/>
+		<record from="schalke a" to="graphics/pictures/team/920/kits/away"/>
+		<record from="schalke h" to="graphics/pictures/team/920/kits/home"/>
+		<record from="schalke t" to="graphics/pictures/team/920/kits/third"/>
+		<record from="stuttgart a" to="graphics/pictures/team/960/kits/away"/>
+		<record from="stuttgart h" to="graphics/pictures/team/960/kits/home"/>
+		<record from="stuttgart t" to="graphics/pictures/team/960/kits/third"/>
+		<record from="union a" to="graphics/pictures/team/121182/kits/away"/>
+		<record from="union h" to="graphics/pictures/team/121182/kits/home"/>
+		<record from="union t" to="graphics/pictures/team/121182/kits/third"/>
+		<record from="werder a" to="graphics/pictures/team/948/kits/away"/>
+		<record from="werder h" to="graphics/pictures/team/948/kits/home"/>
+		<record from="werder t" to="graphics/pictures/team/948/kits/third"/>
+		<record from="wolfsburg a" to="graphics/pictures/team/961/kits/away"/>
+		<record from="wolfsburg h" to="graphics/pictures/team/961/kits/home"/>
+
+	</list>
+</record>

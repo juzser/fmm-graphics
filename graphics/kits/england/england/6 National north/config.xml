@@ -1,0 +1,114 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+			 in the resource system, which allows this folder to be dropped into any
+			 place in the graphics folder and still have the game pick up the graphics
+			 files from the correct places
+	-->
+
+	<list id="maps">
+		<record from="alfreton_1" to="graphics/pictures/team/5100015/kits/home"/>
+		<record from="alfreton_2" to="graphics/pictures/team/5100015/kits/away"/>
+		<record from="alfreton_3" to="graphics/pictures/team/5100015/kits/third"/>
+
+		<record from="banbury_1" to="graphics/pictures/team/5103640/kits/home"/>		
+		<record from="banbury_2" to="graphics/pictures/team/5103640/kits/away"/>
+		<record from="banbury_3" to="graphics/pictures/team/5103640/kits/third"/>
+
+		<record from="blyth_1" to="graphics/pictures/team/5100019/kits/home"/>
+		<record from="blyth_2" to="graphics/pictures/team/5100019/kits/away"/>
+		<record from="blyth_3" to="graphics/pictures/team/5100019/kits/third"/>
+
+		<record from="boston_1" to="graphics/pictures/team/615/kits/home"/>
+		<record from="boston_2" to="graphics/pictures/team/615/kits/away"/>
+		<record from="boston_3" to="graphics/pictures/team/615/kits/third"/>
+
+		<record from="brackley_1" to="graphics/pictures/team/5100088/kits/home"/>
+		<record from="brackley_2" to="graphics/pictures/team/5100088/kits/away"/>
+		<record from="brackley_3" to="graphics/pictures/team/5100088/kits/third"/>
+
+		<record from="bradfordpa_1" to="graphics/pictures/team/4002013/kits/home"/>
+		<record from="bradfordpa_2" to="graphics/pictures/team/4002013/kits/away"/>
+		<record from="bradfordpa_3" to="graphics/pictures/team/4002013/kits/third"/>
+
+		<record from="buxton_1" to="graphics/pictures/team/5100031/kits/home"/>
+		<record from="buxton_2" to="graphics/pictures/team/5100031/kits/away"/>
+		<record from="buxton_3" to="graphics/pictures/team/5100031/kits/third"/>
+
+		<record from="chester_1" to="graphics/pictures/team/29066004/kits/home"/>
+		<record from="chester_2" to="graphics/pictures/team/29066004/kits/away"/>
+		<record from="chester_3" to="graphics/pictures/team/29066004/kits/third"/>
+
+		<record from="chorley_1" to="graphics/pictures/team/635/kits/home"/>
+		<record from="chorley_2" to="graphics/pictures/team/635/kits/away"/>
+		<record from="chorley_3" to="graphics/pictures/team/635/kits/third"/>
+
+		<record from="curzon_1" to="graphics/pictures/team/5103697/kits/home"/>
+		<record from="curzon_2" to="graphics/pictures/team/5103697/kits/away"/>
+		<record from="curzon_3" to="graphics/pictures/team/5103697/kits/third"/>
+
+		<record from="darlington_1" to="graphics/pictures/team/29130446/kits/home"/>
+		<record from="darlington_2" to="graphics/pictures/team/29130446/kits/away"/>
+		<record from="darlington_3" to="graphics/pictures/team/29130446/kits/third"/>
+
+		<record from="farsley_1" to="graphics/pictures/team/90018556/kits/home"/>
+		<record from="farsley_2" to="graphics/pictures/team/90018556/kits/away"/>
+		<record from="farsley_3" to="graphics/pictures/team/90018556/kits/third"/>
+
+		<record from="fylde_1" to="graphics/pictures/team/8601358/kits/home"/>
+		<record from="fylde_2" to="graphics/pictures/team/8601358/kits/away"/>
+		<record from="fylde_3" to="graphics/pictures/team/8601358/kits/third"/>
+
+		<record from="gloucester_1" to="graphics/pictures/team/657/kits/home"/>
+		<record from="gloucester_2" to="graphics/pictures/team/657/kits/away"/>
+		<record from="gloucester_3" to="graphics/pictures/team/657/kits/third"/>
+
+		<record from="hereford_1" to="graphics/pictures/team/82070144/kits/home"/>
+		<record from="hereford_2" to="graphics/pictures/team/82070144/kits/away"/>
+		<record from="hereford_3" to="graphics/pictures/team/82070144/kits/third"/>
+
+		<record from="kettering_1" to="graphics/pictures/team/668/kits/home"/>
+		<record from="kettering_2" to="graphics/pictures/team/668/kits/away"/>
+		<record from="kettering_3" to="graphics/pictures/team/668/kits/third"/>
+
+		<record from="kidderminster_1" to="graphics/pictures/team/669/kits/home"/>
+		<record from="kidderminster_2" to="graphics/pictures/team/669/kits/away"/>
+		<record from="kidderminster_3" to="graphics/pictures/team/669/kits/third"/>
+
+		<record from="kingslynn_1" to="graphics/pictures/team/90018558/kits/home"/>
+		<record from="kingslynn_2" to="graphics/pictures/team/90018558/kits/away"/>
+		<record from="kingslynn_3" to="graphics/pictures/team/90018558/kits/third"/>
+
+		<record from="leamington_1" to="graphics/pictures/team/5108729/kits/home"/>
+		<record from="leamington_2" to="graphics/pictures/team/5108729/kits/away"/>
+		<record from="leamington_3" to="graphics/pictures/team/5108729/kits/third"/>
+
+		<record from="peterboroughsports_1" to="graphics/pictures/team/90060453/kits/home"/>		
+		<record from="peterboroughsports_2" to="graphics/pictures/team/90060453/kits/away"/>
+		<record from="peterboroughsports_3" to="graphics/pictures/team/90060453/kits/third"/>
+
+		<record from="scarborough_1" to="graphics/pictures/team/30021186/kits/home"/>
+		<record from="scarborough_2" to="graphics/pictures/team/30021186/kits/away"/>
+		<record from="scarborough_3" to="graphics/pictures/team/30021186/kits/third"/>
+
+		<record from="southport_1" to="graphics/pictures/team/715/kits/home"/>
+		<record from="southport_2" to="graphics/pictures/team/715/kits/away"/>
+		<record from="southport_3" to="graphics/pictures/team/715/kits/third"/>
+
+		<record from="spennymoor_1" to="graphics/pictures/team/30019954/kits/home"/>
+		<record from="spennymoor_2" to="graphics/pictures/team/30019954/kits/away"/>
+		<record from="spennymoor_3" to="graphics/pictures/team/30019954/kits/third"/>
+
+		<record from="telford_1" to="graphics/pictures/team/8604272/kits/home"/>
+		<record from="telford_2" to="graphics/pictures/team/8604272/kits/away"/>
+		<record from="telford_3" to="graphics/pictures/team/8604272/kits/third"/>
+	</list>
+</record>

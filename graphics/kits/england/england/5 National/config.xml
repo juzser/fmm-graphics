@@ -1,0 +1,114 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+			 in the resource system, which allows this folder to be dropped into any
+			 place in the graphics folder and still have the game pick up the graphics
+			 files from the correct places
+	-->
+
+	<list id="maps">
+		<record from="aldershot_1" to="graphics/pictures/team/573/kits/home"/>
+		<record from="aldershot_2" to="graphics/pictures/team/573/kits/away"/>
+		<record from="aldershot_3" to="graphics/pictures/team/573/kits/third"/>
+
+		<record from="altrincham_1" to="graphics/pictures/team/601/kits/home"/>
+		<record from="altrincham_2" to="graphics/pictures/team/601/kits/away"/>
+		<record from="altrincham_3" to="graphics/pictures/team/601/kits/third"/>
+
+		<record from="barnet_1" to="graphics/pictures/team/605/kits/home"/>
+		<record from="barnet_2" to="graphics/pictures/team/605/kits/away"/>
+		<record from="barnet_3" to="graphics/pictures/team/605/kits/third"/>
+
+		<record from="boreham_1" to="graphics/pictures/team/109212/kits/home"/>
+		<record from="boreham_2" to="graphics/pictures/team/109212/kits/away"/>
+		<record from="boreham_3" to="graphics/pictures/team/109212/kits/third"/>
+
+		<record from="bromley_1" to="graphics/pictures/team/5100153/kits/home"/>
+		<record from="bromley_2" to="graphics/pictures/team/5100153/kits/away"/>
+		<record from="bromley_3" to="graphics/pictures/team/5100153/kits/third"/>
+		
+		<record from="chesterfield_1" to="graphics/pictures/team/634/kits/home"/>
+		<record from="chesterfield_2" to="graphics/pictures/team/634/kits/away"/>
+		<record from="chesterfield_3" to="graphics/pictures/team/634/kits/third"/>
+
+		<record from="dagenham_1" to="graphics/pictures/team/643/kits/home"/>
+		<record from="dagenham_2" to="graphics/pictures/team/643/kits/away"/>
+		<record from="dagenham_3" to="graphics/pictures/team/643/kits/third"/>
+
+		<record from="dorking_1" to="graphics/pictures/team/29106539/kits/home"/>
+		<record from="dorking_2" to="graphics/pictures/team/29106539/kits/away"/>
+		<record from="dorking_3" to="graphics/pictures/team/29106539/kits/third"/>
+		
+		<record from="eastleigh_1" to="graphics/pictures/team/5103760/kits/home"/>
+		<record from="eastleigh_2" to="graphics/pictures/team/5103760/kits/away"/>
+		<record from="eastleigh_3" to="graphics/pictures/team/5103760/kits/third"/>
+
+		<record from="gateshead_1" to="graphics/pictures/team/655/kits/home"/>
+		<record from="gateshead_2" to="graphics/pictures/team/655/kits/away"/>
+		<record from="gateshead_3" to="graphics/pictures/team/655/kits/third"/>
+		
+	        <record from="halifax_1" to="graphics/pictures/team/90002300/kits/home"/>
+		<record from="halifax_2" to="graphics/pictures/team/90002300/kits/away"/>
+		<record from="halifax_3" to="graphics/pictures/team/90002300/kits/third"/>
+
+		<record from="maidenhead_1" to="graphics/pictures/team/5100192/kits/home"/>
+		<record from="maidenhead_2" to="graphics/pictures/team/5100192/kits/away"/>
+		<record from="maidenhead_3" to="graphics/pictures/team/5100192/kits/third"/>
+
+		<record from="maidstone_1" to="graphics/pictures/team/8325049/kits/home"/>
+		<record from="maidstone_2" to="graphics/pictures/team/8325049/kits/away"/>
+		<record from="maidstone_3" to="graphics/pictures/team/8325049/kits/third"/>
+
+		<record from="notts_1" to="graphics/pictures/team/693/kits/home"/>
+		<record from="notts_2" to="graphics/pictures/team/693/kits/away"/>
+		<record from="notts_3" to="graphics/pictures/team/693/kits/third"/>
+
+		<record from="oldham_1" to="graphics/pictures/team/694/kits/home"/>
+		<record from="oldham_2" to="graphics/pictures/team/694/kits/away"/>		
+		<record from="oldham_3" to="graphics/pictures/team/694/kits/third"/>
+
+		<record from="scunthorpe_1" to="graphics/pictures/team/707/kits/home"/>
+		<record from="scunthorpe_2" to="graphics/pictures/team/707/kits/away"/>
+		<record from="scunthorpe_3" to="graphics/pictures/team/707/kits/third"/>
+
+	        <record from="solihull_1" to="graphics/pictures/team/30010181/kits/home"/>
+		<record from="solihull_2" to="graphics/pictures/team/30010181/kits/away"/>
+	        <record from="solihull_3" to="graphics/pictures/team/30010181/kits/third"/>
+
+		<record from="southend_1" to="graphics/pictures/team/714/kits/home"/>
+		<record from="southend_2" to="graphics/pictures/team/714/kits/away"/>
+		<record from="southend_3" to="graphics/pictures/team/714/kits/third"/>
+
+		<record from="torquay_1" to="graphics/pictures/team/727/kits/home"/>
+		<record from="torquay_2" to="graphics/pictures/team/727/kits/away"/>
+		<record from="torquay_3" to="graphics/pictures/team/727/kits/third"/>
+
+		<record from="wealdstone_1" to="graphics/pictures/team/5100217/kits/home"/>
+		<record from="wealdstone_2" to="graphics/pictures/team/5100217/kits/away"/>
+		<record from="wealdstone_3" to="graphics/pictures/team/5100217/kits/third"/>
+
+		<record from="woking_1" to="graphics/pictures/team/739/kits/home"/>
+		<record from="woking_2" to="graphics/pictures/team/739/kits/away"/>	
+		<record from="woking_3" to="graphics/pictures/team/739/kits/third"/>
+
+		<record from="wrexham_1" to="graphics/pictures/team/741/kits/home"/>
+		<record from="wrexham_2" to="graphics/pictures/team/741/kits/away"/>
+		<record from="wrexham_3" to="graphics/pictures/team/741/kits/third"/>	
+
+		<record from="yeovil_1" to="graphics/pictures/team/743/kits/home"/>
+		<record from="yeovil_2" to="graphics/pictures/team/743/kits/away"/>
+		<record from="yeovil_3" to="graphics/pictures/team/743/kits/third"/>
+
+		<record from="york_1" to="graphics/pictures/team/744/kits/home"/>
+		<record from="york_2" to="graphics/pictures/team/744/kits/away"/>	
+		<record from="york_3" to="graphics/pictures/team/744/kits/third"/>	
+	</list>
+</record>

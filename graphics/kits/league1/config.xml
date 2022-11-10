@@ -1,0 +1,76 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		 in the resource system, which allows this folder to be dropped into any
+		 place in the graphics folder and still have the game pick up the graphics
+		 files from the correct places
+	-->
+	
+	<list id="maps">
+
+		<record from="ajaccio h" to="graphics/pictures/team/400362/kits/home"/>
+		<record from="ajaccio a" to="graphics/pictures/team/400362/kits/away"/>
+		<record from="ajaccio t" to="graphics/pictures/team/400362/kits/third"/>
+		<record from="angers h" to="graphics/pictures/team/875/kits/home"/>
+		<record from="angers a" to="graphics/pictures/team/875/kits/away"/>
+		<record from="angers t" to="graphics/pictures/team/875/kits/third"/>
+		<record from="auxerre h" to="graphics/pictures/team/824/kits/home"/>
+		<record from="auxerre a" to="graphics/pictures/team/824/kits/away"/>
+		<record from="brestois h" to="graphics/pictures/team/2061/kits/home"/>
+		<record from="brestois a" to="graphics/pictures/team/2061/kits/away"/>
+		<record from="brestois t" to="graphics/pictures/team/2061/kits/third"/>
+		<record from="clermont h" to="graphics/pictures/team/1992/kits/home"/>
+		<record from="clermont a" to="graphics/pictures/team/1992/kits/away"/>
+		<record from="clermont t" to="graphics/pictures/team/1992/kits/third"/>
+		<record from="lens h" to="graphics/pictures/team/871/kits/home"/>
+		<record from="lens a" to="graphics/pictures/team/871/kits/away"/>
+		<record from="lens t" to="graphics/pictures/team/871/kits/third"/>
+		<record from="lille h" to="graphics/pictures/team/858/kits/home"/>
+		<record from="lille a" to="graphics/pictures/team/858/kits/away"/>
+		<record from="lille t" to="graphics/pictures/team/858/kits/third"/>
+		<record from="lorient h" to="graphics/pictures/team/2005/kits/home"/>
+		<record from="lorient a" to="graphics/pictures/team/2005/kits/away"/>
+		<record from="lorient t" to="graphics/pictures/team/2005/kits/third"/>
+		<record from="lyon h" to="graphics/pictures/team/865/kits/home"/>
+		<record from="lyon a" to="graphics/pictures/team/865/kits/away"/>
+		<record from="lyon t" to="graphics/pictures/team/865/kits/third"/>
+		<record from="monaco h" to="graphics/pictures/team/826/kits/home"/>
+		<record from="monaco a" to="graphics/pictures/team/826/kits/away"/>
+		<record from="monaco t" to="graphics/pictures/team/826/kits/third"/>
+		<record from="montpellier h" to="graphics/pictures/team/859/kits/home"/>
+		<record from="montpellier a" to="graphics/pictures/team/859/kits/away"/>
+		<record from="montpellier t" to="graphics/pictures/team/859/kits/third"/>
+		<record from="nantes h" to="graphics/pictures/team/846/kits/home"/>
+		<record from="nantes a" to="graphics/pictures/team/846/kits/away"/>
+		<record from="nantes t" to="graphics/pictures/team/846/kits/third"/>
+		<record from="nice h" to="graphics/pictures/team/862/kits/home"/>
+		<record from="nice a" to="graphics/pictures/team/862/kits/away"/>
+		<record from="nice t" to="graphics/pictures/team/862/kits/third"/>
+		<record from="om h" to="graphics/pictures/team/866/kits/home"/>
+		<record from="om a" to="graphics/pictures/team/866/kits/away"/>
+		<record from="om t" to="graphics/pictures/team/866/kits/third"/>
+		<record from="psg h" to="graphics/pictures/team/868/kits/home"/>
+		<record from="psg a" to="graphics/pictures/team/868/kits/away"/>
+		<record from="psg t" to="graphics/pictures/team/868/kits/third"/>
+		<record from="reims h" to="graphics/pictures/team/2047/kits/home"/>
+		<record from="reims a" to="graphics/pictures/team/2047/kits/away"/>
+		<record from="reims t" to="graphics/pictures/team/2047/kits/third"/>
+		<record from="rennais h" to="graphics/pictures/team/884/kits/home"/>
+		<record from="rennais a" to="graphics/pictures/team/884/kits/away"/>
+		<record from="rennais t" to="graphics/pictures/team/884/kits/third"/>
+		<record from="strasbourg h" to="graphics/pictures/team/872/kits/home"/>
+		<record from="strasbourg a" to="graphics/pictures/team/872/kits/away"/>
+		<record from="strasbourg t" to="graphics/pictures/team/872/kits/third"/>
+		<record from="toulouse h" to="graphics/pictures/team/886/kits/home"/>
+		<record from="toulouse a" to="graphics/pictures/team/886/kits/away"/>
+		<record from="troyes h" to="graphics/pictures/team/1971/kits/home"/>
+		<record from="troyes a" to="graphics/pictures/team/1971/kits/away"/>
+		<record from="troyes t" to="graphics/pictures/team/1971/kits/third"/>
+		
+	</list>
+</record>

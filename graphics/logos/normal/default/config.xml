@@ -1,0 +1,22 @@
+﻿<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- icon mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		 in the resource system, which allows this folder to be dropped into any
+		 place in the graphics folder and still have the game pick up the graphics
+		 files from the correct places
+	-->
+	
+	<list id="maps">
+	
+		<record from="club" to="graphics/pictures/club/none/logo/style/1"/>
+		<record from="cup" to="graphics/pictures/comp/none/logo/cup"/>
+		<record from="league" to="graphics/pictures/comp/none/logo/league"/>
+		
+	</list>
+	
+</record>
